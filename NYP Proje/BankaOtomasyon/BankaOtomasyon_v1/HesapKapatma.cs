@@ -30,10 +30,10 @@ namespace BankaOtomasyon_v1
 
             else
             {
-                int TC;
+                string TC;
                 int HesapNo;
                 int t = 0;
-                TC = Convert.ToInt32(txtTC.Text);
+                TC = txtTC.Text;
                 HesapNo = Convert.ToInt32(txtHesapNo.Text);
 
                 foreach (Musteri m in BankApp.Musteriler)

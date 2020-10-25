@@ -41,7 +41,7 @@ namespace BankaOtomasyon_v1
             {
                 int Miktar = Convert.ToInt32(txtMiktar.Text);
                 int HesapNo = Convert.ToInt32(txtHesapNo.Text);
-                int TC = Convert.ToInt32(txtTC.Text);
+                string TC = txtTC.Text;
                 int i = 0;
 
 
@@ -91,7 +91,7 @@ namespace BankaOtomasyon_v1
                 {
                     int Miktar = Convert.ToInt32(txtMiktar.Text);
                     int HesapNo = Convert.ToInt32(txtHesapNo.Text);
-                    int TC = Convert.ToInt32(txtTC.Text);
+                    string TC = txtTC.Text;
                     int i = 0;
 
 

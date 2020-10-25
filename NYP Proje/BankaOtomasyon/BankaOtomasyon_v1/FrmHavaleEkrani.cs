@@ -39,7 +39,7 @@ namespace BankaOtomasyon_v1
 
             else
             {
-                int TC;
+                string TC;
                 int bizimHesapNo;
                 int hedefHesapNo;
                 decimal Miktar = 0;
@@ -51,7 +51,7 @@ namespace BankaOtomasyon_v1
                 Miktar = Convert.ToDecimal(txtMiktar.Text);
                 hedefHesapNo = Convert.ToInt32(txtHedefHesapNo.Text);
                 bizimHesapNo = Convert.ToInt32(txtGonderenHesapNo.Text);
-                TC = Convert.ToInt32(txtTC.Text);
+                TC = txtTC.Text;
                 txtMiktar.Text = "0";
 
                 foreach (Musteri n in BankApp.Musteriler)

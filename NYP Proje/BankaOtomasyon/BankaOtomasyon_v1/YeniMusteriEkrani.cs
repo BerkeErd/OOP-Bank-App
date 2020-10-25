@@ -74,7 +74,7 @@ namespace BankaOtomasyon_v1
 
                     b.Adi = txtIsim.Text;
                     b.Soyadi = txtSoyisim.Text;
-                    b.TC = Convert.ToInt32(txtTC.Text);
+                    b.TC = txtTC.Text;
                     b.MusteriNo += BankApp.Musteriler.Count;
                     b.MusteriTuru = false; //bireysel musteri
 
@@ -97,7 +97,7 @@ namespace BankaOtomasyon_v1
                         t.Soyadi = txtSoyisim.Text;
                         t.VergiNumarasi = Convert.ToInt32(txtVergiNo.Text);
                         t.MusteriTuru = true; //ticari musteri
-                        t.TC = Convert.ToInt32(txtTC.Text);
+                        t.TC = txtTC.Text;
                         t.MusteriNo += BankApp.Musteriler.Count;
 
 

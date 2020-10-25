@@ -37,7 +37,7 @@ namespace BankaOtomasyon_v1
             else
             {
                 int musteriNo = Convert.ToInt32(txtMusteriNo.Text);
-                int TC = Convert.ToInt32(txtTC.Text);
+                string TC = txtTC.Text;
                 int i = 0;
 
 

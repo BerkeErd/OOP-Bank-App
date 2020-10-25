@@ -17,7 +17,7 @@ namespace BankaOtomasyon_v1
         public int MusteriNo = 1;
         public bool MusteriTuru; //eğer ticari ise true bireysel ise false olacak  
 
-        public int TC { get; set; }
+        public string TC { get; set; }
         public List<Hesap> hesaplar = new List<Hesap>();
 
 

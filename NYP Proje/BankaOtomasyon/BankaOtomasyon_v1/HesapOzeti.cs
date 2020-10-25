@@ -66,7 +66,7 @@ namespace BankaOtomasyon_v1
             else
             {
                 int hesapNo = Convert.ToInt32(txtHesapNo.Text);
-                int TC = Convert.ToInt32(txtTC.Text);
+                string TC = txtTC.Text;
                 int a = 0;
                 int t = 0;
 
