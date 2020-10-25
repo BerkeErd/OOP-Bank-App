@@ -1,0 +1,16 @@
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\bin\Release\BankaOtomasyon_v1.exe.config
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\bin\Release\BankaOtomasyon_v1.exe
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\bin\Release\BankaOtomasyon_v1.pdb
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmBankaGelirGider.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.MusteriBilgi.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmHavale.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmHesapAcmaEkrani.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmHesapKapatma.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmHesapOzeti.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.MDIParent1.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmParaYatirmaVeCekme.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.Properties.Resources.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.FrmYeniMusteriEkrani.resources
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.csproj.GenerateResource.Cache
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.exe
+C:\Users\q\Downloads\BankaOtomasyon_v12\BankaOtomasyon_v9\BankaOtomasyon_v1\obj\Release\BankaOtomasyon_v1.pdb
